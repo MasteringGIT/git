@@ -1,2 +1,2 @@
-user: neshimbekova1
-email: neshimbekova1@gmail.com
+user: alin1115
+email: a.baktybe@gmail.com
